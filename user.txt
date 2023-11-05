@@ -1,7 +1,15 @@
-hi this is user details
-*******
-name :jay deshmukh
-city :dhule
+hi this is user details ---->>
+
+/*
+
+
+name :Jay Umakant Deshmukh.
+birthplace :Dhule
+state : Maharashtra
+college : KKWagh,Nashik.
+education : BE ENTC
 email :jayudeshmukh7@gmail.com
 
-*******
+
+
+*/
