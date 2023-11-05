@@ -1,0 +1,7 @@
+hi this is user details
+*******
+name :jay deshmukh
+city :dhule
+email :jayudeshmukh7@gmail.com
+
+*******
